@@ -11,3 +11,8 @@ Este exemplar, ou melhor à pasta 3, executei um filtro sobre o final do docker 
 resultando no arquivo resultado.txt, que resultou no arquivo fazer.sh que foi trabalhado
 para ter o final em variável para ser posto em outro arquivo .php que vai ser trabalhado, 
 possivelmente para originar uma tabela <th> <td>.
+
+Esta aplicação não trabalha com programação orientada a objeto, o que certamente fará
+com que tenha um tempo de resposta melhor, outra questão é como vai ser chamado "docker run",
+será no primeiro local abrindo, um programa não como um terminal dentro da própria 
+aplicação.
