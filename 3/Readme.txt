@@ -6,3 +6,4 @@ melhor alternativa. É necessário fazer um chmod +s docker.io para
 poder executar. É necessário fazer uns tratamentos pois toda vez que roda
 se cria no arquivo através do" fwrite".php várias procuras, ainda não criou-se
 uma interface entre os dois mas já é possível fazer rodar sem nenhum tratamento.
+Dentro do arquivo, dentro do arquivo, I not ..
