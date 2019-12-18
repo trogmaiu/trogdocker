@@ -10,8 +10,8 @@ if ( $i  == $t ) {
 echo "<tr>";
 echo "<td>";
 echo "a$i";
-echo "</td>"
-echo "</tr>"
+echo "</td>";
+echo "</tr>";
 }
 }
 echo "</table>"
