@@ -6,28 +6,38 @@ do
 sed -n "${i}s/^/\$a${i}\ = \"/p" resultado.txt >> a.txt
 sed -n "${i}s/\[<BR>\]/\";/p" a.txt >> b.txt
 done
+i="0"
 
 write=`cat b.txt`
-echo ' 
+echo " 
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
 <title> Lista </title>
-<body>
-<?php 
+</head>
+<body> 
 
-i=0
-while ( $i => 85)
-{
-echo "<tr>";
-echo "<td>";
-echo (a$i);
-echo "</td>"
-echo "</tr>"
+
+<?php
+
+" >> c.html
+i="0"
+ttt() {
+while [ $i -le 85 ]
+do
+echo "echo \"<tr>\" ";
+echo " echo \"<td>\" ";
+echo "echo (\$a$i);"
+echo "echo \"</td>\" ";
+echo "echo \"</tr>\" ";
+let i=i+1;
+done
 }
+ttt >> c.html 
+echo "
 ?>
-echo "</table>"
-echo "</body>"
-echo "</html>"
-'
+echo </table>
+echo </body>
+echo </html>
+"
 >> c.html
