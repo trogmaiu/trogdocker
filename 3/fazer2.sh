@@ -11,33 +11,38 @@ i="0"
 write=`cat b.txt`
 echo " 
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang=\"pt-br\">
 <head>
 <title> Lista </title>
 </head>
 <body> 
+<?php " >> c.html
+echo "$write" >> c.html
 
-
-<?php
-
-" >> c.html
+#
+#
+#
+#
+#
+#
+echo "
+echo \"<table border=1>\"; " >> c.html
 i="0"
 ttt() {
 while [ $i -le 85 ]
 do
-echo "echo \"<tr>\" ";
-echo " echo \"<td>\" ";
-echo "echo (\$a$i);"
-echo "echo \"</td>\" ";
-echo "echo \"</tr>\" ";
+echo "echo \"<tr>\"; "
+echo " echo \"<td>\"; "
+echo "echo(\$a$i);"
+echo "echo \"</td>\"; "
+echo "echo \"</tr>\"; "
 let i=i+1;
 done
 }
-ttt >> c.html 
-echo "
+ttt >> c.html
+
+echo "\"</table>\";
 ?>
-echo </table>
-echo </body>
-echo </html>
-"
->> c.html
+ </body>
+ </html>
+" >> c.html
