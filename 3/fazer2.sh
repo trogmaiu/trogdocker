@@ -29,7 +29,7 @@ echo "
 echo \"<table border=1>\"; " >> c.html
 i="0"
 ttt() {
-while [ $i -le 85 ]
+while [ $i -le $t ]
 do
 echo "echo \"<tr>\"; "
 echo " echo \"<td>\"; "
