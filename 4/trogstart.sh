@@ -31,5 +31,7 @@ case $1 in
 start) trogstart ;;
 stop) killall trogstart ;;
 reload) $0 && sleep 5 && $0 start 
-esac
 
+esac
+#https://raccoon.ninja/pt/dev-pt/entendendo-o-padrao-lsb-init-do-linux/
+#Entendi, estudar mais
