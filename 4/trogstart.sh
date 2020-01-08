@@ -34,4 +34,4 @@ reload) $0 && sleep 5 && $0 start
 
 esac
 #https://raccoon.ninja/pt/dev-pt/entendendo-o-padrao-lsb-init-do-linux/
-#Entendi, estudar mais
+#Entendi, estudar mais. Segue o padrao LSB, para padronizar em virtude de existir várias distribuicoes. Segue...
