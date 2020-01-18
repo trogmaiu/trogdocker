@@ -76,7 +76,7 @@ width: 30%;
   // echo nl2br($buffer);  
 ?>
 
-<a href="lista.php">a </a>
+<a href="c.php">a </a>
 </div>
 </body>
 </html>
