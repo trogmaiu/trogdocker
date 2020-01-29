@@ -1,0 +1,676 @@
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]
+NAME                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+nginx                             Official build of Nginx.                        12537               [OK]                
+jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    [OK]
+richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     [OK]
+linuxserver/nginx                 An Nginx container, brought to you by LinuxS…   88                                      
+bitnami/nginx                     Bitnami nginx Docker Image                      75                                      [OK]
+tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      [OK]
+jc21/nginx-proxy-manager          Docker container for managing Nginx proxy ho…   37                                      
+nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      [OK]
+nginx/unit                        NGINX Unit is a dynamic web and application …   33                                      
+jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      [OK]
+nginx/nginx-ingress               NGINX Ingress Controller for Kubernetes         22                                      
+privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      [OK]
+schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      [OK]
+blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      [OK]
+centos/nginx-18-centos7           Platform for running nginx 1.8 or building n…   12                                      
+nginxinc/nginx-unprivileged       Unprivileged NGINX Dockerfiles                  12                                      
+centos/nginx-112-centos7          Platform for running nginx 1.12 or building …   12                                      
+raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      [OK]
+nginx/nginx-prometheus-exporter   NGINX Prometheus Exporter                       8                                       
+sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       [OK]
+mailu/nginx                       Mailu nginx frontend                            5                                       [OK]
+pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       [OK]
+ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       [OK]
+centos/nginx-110-centos7          Platform for running nginx 1.10 or building …   0                                       
+wodby/nginx                       Generic nginx                                   0                                       [OK]

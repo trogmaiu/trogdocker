@@ -1,0 +1,16 @@
+$a2 = "nginx                             Official build of Nginx.                        12537               ";                
+$a3 = "jwilder/nginx-proxy               Automated Nginx reverse proxy for docker con…   1724                                    ";
+$a4 = "richarvey/nginx-php-fpm           Container running Nginx + PHP-FPM capable of…   753                                     ";
+$a6 = "bitnami/nginx                     Bitnami nginx Docker Image                      75                                      ";
+$a7 = "tiangolo/nginx-rtmp               Docker image with Nginx using the nginx-rtmp…   61                                      ";
+$a9 = "nginxdemos/hello                  NGINX webserver that serves a simple page co…   36                                      ";
+$a11 = "jlesage/nginx-proxy-manager       Docker container for Nginx Proxy Manager        33                                      ";
+$a13 = "privatebin/nginx-fpm-alpine       PrivateBin running on an Nginx, php-fpm & Al…   20                                      ";
+$a14 = "schmunk42/nginx-redirect          A very simple container to redirect HTTP tra…   18                                      ";
+$a15 = "blacklabelops/nginx               Dockerized Nginx Reverse Proxy Server.          12                                      ";
+$a19 = "raulr/nginx-wordpress             Nginx front-end for the official wordpress:f…   12                                      ";
+$a21 = "sophos/nginx-vts-exporter         Simple server that scrapes Nginx vts stats a…   6                                       ";
+$a22 = "mailu/nginx                       Mailu nginx frontend                            5                                       ";
+$a23 = "pebbletech/nginx-proxy            nginx-proxy sets up a container running ngin…   2                                       ";
+$a24 = "ansibleplaybookbundle/nginx-apb   An APB to deploy NGINX                          1                                       ";
+$a26 = "wodby/nginx                       Generic nginx                                   0                                       ";
