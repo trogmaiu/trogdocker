@@ -1,1 +1,0 @@
-/usr/bin/xterm -e /usr/bin/docker run -ti ubuntu/usr/bin/xterm -e /usr/bin/docker run -ti ubuntu/usr/bin/xterm -e /usr/bin/docker run -ti ubuntu/usr/bin/xterm -e /usr/bin/docker run -ti ubuntu

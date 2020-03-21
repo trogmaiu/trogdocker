@@ -1,3 +1,0 @@
-REPOSITORY            TAG                 IMAGE ID            CREATED             SIZE
-ubuntu                latest              549b9b86cb8d        5 weeks ago         64.2MB
-antage/apache2-php5   latest              e764187d25cf        7 weeks ago         641MB

@@ -1,2 +1,0 @@
-REPOSITORY            TAG                 IMAGE ID            CREATED             SIZE
-antage/apache2-php5   latest              e764187d25cf        3 weeks ago         641MB
